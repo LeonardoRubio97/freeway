@@ -3,7 +3,7 @@
 # Jogo desenvolvido com base no jogo Freeway da Atari #
 
 
-Instruções de jogo
+*Instruções de jogo*
 
 Para jogar basta clicar no botão play no canto superior esquerdo e em seguida clicar na janela do jogo.
 
