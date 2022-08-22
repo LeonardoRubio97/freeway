@@ -1,4 +1,3 @@
-![atari](https://user-images.githubusercontent.com/108687467/186006571-3e8b0502-b2cc-48e6-9243-effd842234c9.jpg)
 
 # Esse jogo foi baseado no clássico jogo da Atari, Freeway #
 
