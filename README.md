@@ -32,6 +32,7 @@ Durante as aulas foi possível colocar em prática o uso das functions, funciona
 
 LINKS
 
+
 curso - https://cursos.alura.com.br/course/javascript-listas-lacos
 
 Jogo - https://editor.p5js.org/LeonardoRubio97/sketches/PTNnz_kAn
