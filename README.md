@@ -3,26 +3,26 @@
 # Jogo desenvolvido com base no jogo Freeway da Atari #
 
 
-*Instruções de jogo
+*Instruções de jogo*
 
 Para jogar basta clicar no botão play no canto superior esquerdo e em seguida clicar na janela do jogo.
 
 
 
-*Objetivo
+*Objetivo*
 
 Se você é fã de games provavelmente já jogou algum jogo da Atari. Em Freeway a galinha se movimentava apenas para cima e para baixo. O Objetivo é simples, basta chegar ao outro lado da avênida sem ser pego pelos carros.
 
 
 
-*Como Jogar
+*Como Jogar*
 
 Para jogar é só usar as setas do teclado CIMA e BAIXO.
 Obs: vaquinha não anda para os lados (ainda).
 
 
 
-*Desenvolvimento
+*Desenvolvimento*
 
 O jogo foi desenvolvido com base no curso da Alura, onde é abordado temas como, arrays, clean code, laços de repetição e lógica de programação. 
 Durante as aulas foi possível colocar em prática o uso das functions, funcionamento de arrays para representar as posições nos eixos x e y de cada personagem e estrutura de repetição.
