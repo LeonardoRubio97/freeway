@@ -7,6 +7,8 @@
 
 Para jogar basta clicar no botão play no canto superior esquerdo e em seguida clicar na janela do jogo.
 
+https://editor.p5js.org/LeonardoRubio97/sketches/PTNnz_kAn
+
 
 
 *Objetivo*
@@ -27,3 +29,12 @@ Obs: vaquinha não anda para os lados (ainda).
 O jogo foi desenvolvido com base no curso da Alura, onde é abordado temas como, arrays, clean code, laços de repetição e lógica de programação. 
 Durante as aulas foi possível colocar em prática o uso das functions, funcionamento de arrays para representar as posições nos eixos x e y de cada personagem e estrutura de repetição.
 
+
+LINKS
+curso -
+Jogo - https://editor.p5js.org/LeonardoRubio97/sketches/PTNnz_kAn
+Plataforma usada - https://p5js.org/ 
+LinkedIn - https://www.linkedin.com/in/leomed/
+
+
+<a href=“[http://exemplo.com/](https://cursos.alura.com.br/course/javascript-listas-lacos)“>Curso</a>
