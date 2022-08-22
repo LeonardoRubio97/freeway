@@ -31,10 +31,11 @@ Durante as aulas foi possível colocar em prática o uso das functions, funciona
 
 
 LINKS
-curso -
+
+curso - https://cursos.alura.com.br/course/javascript-listas-lacos
+
 Jogo - https://editor.p5js.org/LeonardoRubio97/sketches/PTNnz_kAn
+
 Plataforma usada - https://p5js.org/ 
+
 LinkedIn - https://www.linkedin.com/in/leomed/
-
-
-<a href=“[http://exemplo.com/](https://cursos.alura.com.br/course/javascript-listas-lacos)“>Curso</a>
